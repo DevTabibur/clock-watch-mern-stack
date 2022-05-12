@@ -7,3 +7,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. React Bootstrap
 2. React Router
 3. Swiper (React)
+4. React Icons
+5. React Bootstrap Modal
