@@ -1,5 +1,6 @@
 import React from "react";
 import Offcanvas from 'react-bootstrap/Offcanvas'
+import { Link } from "react-router-dom";
 
 const ShowOffCanvas = ({ handleClose, show, pd }) => {
   const {
@@ -24,6 +25,8 @@ const ShowOffCanvas = ({ handleClose, show, pd }) => {
         <Offcanvas.Body>
           <p>Price: {price}</p>
         </Offcanvas.Body>
+        <Link to="/checkout">Checkout</Link>
+
       </Offcanvas>
     </>
   );

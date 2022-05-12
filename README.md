@@ -9,3 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Swiper (React)
 4. React Icons
 5. React Bootstrap Modal
+6. React Bootstrap OffCanvas
+7. Firebase
+8. React Firebase hooks
