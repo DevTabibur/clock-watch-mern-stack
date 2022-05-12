@@ -20,7 +20,7 @@ const NewArrival = () => {
                 <h2>New Arrival</h2>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero, delectus!</p>
             </div>
-            <Row>
+            <Row className='g-4'>
                 {
                     products.map( (pd) => <ShowProduct
                         key={pd}

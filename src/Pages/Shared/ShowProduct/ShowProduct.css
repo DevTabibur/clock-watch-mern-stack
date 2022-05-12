@@ -7,5 +7,8 @@
 .product-box img{
     position: relative;
     width: 100%;
-    height: 100%;
+    height:auto;
 }
+.product-box .info{}
+.product-box .info .product-name{}
+.product-box .info .product-price{}
