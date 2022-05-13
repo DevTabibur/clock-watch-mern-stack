@@ -1,0 +1,60 @@
+.header-nav{}
+.header-nav .menu-link{
+    color: #000 !important;
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 30px;
+}
+.header-nav .menu-link-sale{
+    color: #c91f28 !important;
+}
+.header-nav .menu-link:last-child{
+    margin-right: 0px;
+}
+.header-nav .menu-link .shop-sup {
+    background-color: #27ae60 !important;
+    border-radius: 15px;
+    padding: 5px 13px;
+    color: #fff !important;
+}
+.header-nav .menu-link-sale .sale-sup{
+    background-color: #c91f28 !important;
+    border-radius: 15px;
+    padding: 5px 13px;
+    color: #fff !important;
+
+}
+.header-nav .menu-right-icon{
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 10px;
+}
+.header-nav .menu-right-icon:last-child{
+    margin-right: 0px;
+}
+
+
+.header-nav .menu-right-icon .menu-btn{
+    background: none !important;
+    border: none !important;
+    padding-right: 0px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.header-nav .menu-right-icon .menu-btn sup {
+    /* position: absolute;
+    left: 5px;
+    top: -2px; */
+    background-color: #000 !important;
+    color: #fff !important;
+    font-size: 20px !important;
+    box-shadow: 3px 3px 19px 1px rgba(0,0,0,0.75);
+    padding: 0px 12px;
+    border-radius: 50%;
+    z-index: 2;
+}
+.header-nav .menu-right-icon .menu-btn .icon{
+    font-size: 25px;
+    color: rgb(55, 54, 54) !important;
+}
